@@ -364,6 +364,8 @@ The test phase generates a trading chart showing:
 - **Green triangles (v)**: Sell signals
 - **Title**: Total gains from trading
 
+![Test Trading Results](Project/test_trading_results.png)
+
 ---
 
 ## Dependencies
